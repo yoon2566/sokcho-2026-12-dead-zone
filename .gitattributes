@@ -1,0 +1,8 @@
+* text=auto
+*.glb binary
+*.html text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.ps1 text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
