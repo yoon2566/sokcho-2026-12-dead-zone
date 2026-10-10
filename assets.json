@@ -1,7 +1,5 @@
 {
   "hands": "assets/hands.glb",
-  "mutant": "assets/mutant.glb",
-  "boss": "assets/boss.glb",
   "scrap": "assets/scrap.glb",
   "wire": "assets/wire.glb",
   "battery": "assets/battery.glb",

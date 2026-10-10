@@ -38,3 +38,8 @@ README.md와 source.template.html을 읽고 게임 구조와 조작 방법을 �
 ~~~
 
 기존 HTML 프로토타입을 수업용으로 옮겼습니다. 최신 훈위안 리깅 통합본은 아닙니다. 제출 주소는 수업 노션에서 안내합니다.
+
+
+2026-10-10 업데이트: 학생 제출본의 최신 소스와 실행 파일을 반영했습니다.
+
+[학생 게임 모음에서 실행](https://sokcho-game-prototypes-20261003.yoon2566.workers.dev/game-12.html)
