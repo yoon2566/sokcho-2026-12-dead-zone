@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "addedOn": "2026-11-02",
+  "studentNumber": 12,
+  "sourceStudentNumber": 12,
+  "status": "assets_only_not_integrated",
+  "warning": "게임 조작, 외형 변형, 충돌 및 재시작은 실제 게임에 연결한 후 확인해야 합니다.",
+  "models": [
+    {
+      "file": "survivor_game.glb",
+      "bytes": 3507236,
+      "sha256": "cd6d64bd966b1392e68f1c47076f12eeac84c4688cff2a7e155e466fb5983231",
+      "skins": 1,
+      "joints": 28,
+      "animations": [
+        "Attack",
+        "Failure",
+        "Hit",
+        "Idle",
+        "Interact",
+        "Jump",
+        "Reload",
+        "Run",
+        "Walk"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    }
+  ]
+}
